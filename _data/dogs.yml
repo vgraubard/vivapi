@@ -1,0 +1,14 @@
+rover:
+  color: brown
+  breed: lab
+  age: 6 months
+  
+ernie:
+  color: white
+  breed: yorkie
+  age: 2 years
+  
+bo:
+  color: black with white paws
+  breed: portugese waterdog
+  age: 5 years
